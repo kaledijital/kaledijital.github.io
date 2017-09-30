@@ -1,0 +1,131 @@
+body {
+    /* font-family:  "Open Sans", sans-serif; */
+    color: #6A6A6A;
+}
+
+.bg-gray {
+    background: #ebebeb;
+}
+
+.bg-light {
+    background: #fff!important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #323232;
+    font-weight: 500;
+}
+
+.slide {
+    background: url(../img/slide.jpg) no-repeat center center fixed;
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+}
+
+.stitle {
+    color: #004AC5;
+    
+    font-size: 48px;
+}
+
+.sp {
+    color: #323232;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.btitle1 {
+    color: #fff;
+}
+
+.btitle1s {
+    color:#FFB322;
+    font-weight: 700;
+}
+
+.bg-sec {
+    background: #004AC5;
+}
+
+.banner2 {
+    color: #fff;
+}
+
+.tcb {
+    color: #004AC5;
+}
+
+.lead {
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.ttc2 {
+    color: #323232;
+}
+
+.tc2 {
+    color: #6A6A6A;
+}
+
+.fa-3x {
+    color: #004AC5;
+}
+
+.biz h4 {
+    color: #323232;
+}
+
+.fa-c {
+    color: #004AC5;
+}
+
+footer,
+.fcopy {
+    color: #fff;
+}
+
+.bg-fc {
+    background: #003da3;
+}
+
+.social {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.social li {
+    display: inline-block;
+}
+
+.social a {
+    display: block;
+    width: 40px;
+    height: 40px;
+    background: #fff;
+    color: #0088AA;
+    line-height: 40px;
+    text-align: center;
+}
+
+.tlf,
+.mail {
+    border: 1px solid #0088AA;
+    background: #fff;
+    border-radius: .25rem;
+}
+
+.tlf h4 {
+    color: #004AC5;
+}
+
+.form-control {
+    border-color: #0088AA;
+}
+
+.fatlf {
+    vertical-align: sub;
+}
