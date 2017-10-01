@@ -20,6 +20,7 @@ body {
     background: url(img/slide.jpg) no-repeat center center fixed;
     background-size: cover;
     padding: 80px 0;
+    
 }
 
 .stitle {
@@ -44,7 +45,11 @@ body {
 }
 
 .bg-sec {
-    background: #004AC5;
+    background: #ebebeb;
+}
+
+.bg-sec2 {
+    color: #808080;
 }
 
 .banner2 {
