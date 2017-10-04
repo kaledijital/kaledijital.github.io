@@ -49,7 +49,7 @@ body {
 }
 
 .bg-sec2 {
-    background: #808080;
+    background: #115c87;
 }
 
 .banner2 {
@@ -87,11 +87,15 @@ body {
 
 footer,
 .fcopy {
+    color: #b6c5d2;
+}
+
+footer h4 {
     color: #fff;
 }
 
 .bg-fc {
-    background: #5d5d5d;
+    background: #0b4e75;
 }
 
 .social {
