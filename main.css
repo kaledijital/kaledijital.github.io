@@ -126,7 +126,12 @@ footer h4 {
 }
 
 .tlf h4 {
-    color: #004AC5;
+    color: #115c87;
+}
+
+.btn-primary {
+    border-color: #115c87;
+    background: #115c87;
 }
 
 .form-control {
