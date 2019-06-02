@@ -1,7 +1,6 @@
 body {
     font-family:  "Open Sans", sans-serif;
     color: #6A6A6A;
-    border-top: 6px solid #115c87;
 }
 
 .bg-gray {
@@ -14,7 +13,7 @@ body {
 
 .navbar-light .navbar-nav .nav-link {
     color: #323232;
-    font-weight: 500;
+    font-weight: 700;
 }
 
 .slide {
@@ -145,6 +144,6 @@ footer h4 {
 
 
 .navbar-brand {
-    text-transform: full-width;
+    letter-spacing: 10px;
     font-weight: bold;
 }
