@@ -146,4 +146,6 @@ footer h4 {
 .navbar-brand {
     letter-spacing: 10px;
     font-weight: bold;
+    text-shadow: 1px 1px rgba(17, 92, 135, 0.5);
+    font-variant: small-caps;
 }
