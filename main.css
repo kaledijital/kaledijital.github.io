@@ -142,3 +142,9 @@ footer h4 {
 .fatlf {
     vertical-align: sub;
 }
+
+
+.navbar-brand {
+    text-transform: full-width;
+    font-weight: bold;
+}
