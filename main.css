@@ -31,6 +31,10 @@ body {
         background-color: #0069d9 !important;
  }
 
+.pt-5 {
+    padding-top: 100px !important;
+}
+
 .btitle1s {
     color:#FFB322;
     font-weight: 700;
