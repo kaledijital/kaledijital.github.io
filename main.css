@@ -17,11 +17,13 @@ body {
 }
 
 .hero {
-    padding-bottom: 100px;
-    padding-top: 100px;
+    background-image: linear-gradient(-90deg, #0069d9, #17a2b8);
 }
 
-
+.py-lg-4 {
+        padding-top: 100px !important;
+        padding-bottom: 100px !important;
+}
 
 .btitle1s {
     color:#FFB322;
