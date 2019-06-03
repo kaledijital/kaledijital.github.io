@@ -20,9 +20,11 @@ body {
     background: radial-gradient(circle, rgba(23,162,184,1) 33%, rgba(0,105,217,1) 100%);
 }
 
-.py-lg-4 {
-        padding-top: 100px !important;
-        padding-bottom: 100px !important;
+@media only screen and (min-width: 992px) {
+    .py-lg-4 {
+        padding-top: 1.5rem !important;
+        padding-bottom: 1.5rem !important;
+    }
 }
 
 .bg-primary {
